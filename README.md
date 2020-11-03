@@ -1,0 +1,2 @@
+# CoreDemo
+Asp.net Core
