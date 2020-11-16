@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#demo\\CoreDemo\\CoreDemo.csproj": {}
+    "D:\\CoreWork\\CoreDemo\\CoreDemo.csproj": {}
   },
   "projects": {
-    "D:\\C#demo\\CoreDemo\\CoreDemo.csproj": {
+    "D:\\CoreWork\\CoreDemo\\CoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#demo\\CoreDemo\\CoreDemo.csproj",
+        "projectUniqueName": "D:\\CoreWork\\CoreDemo\\CoreDemo.csproj",
         "projectName": "CoreDemo",
-        "projectPath": "D:\\C#demo\\CoreDemo\\CoreDemo.csproj",
+        "projectPath": "D:\\CoreWork\\CoreDemo\\CoreDemo.csproj",
         "packagesPath": "C:\\Users\\yuanhb\\.nuget\\packages\\",
-        "outputPath": "D:\\C#demo\\CoreDemo\\obj\\",
+        "outputPath": "D:\\CoreWork\\CoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuanhb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

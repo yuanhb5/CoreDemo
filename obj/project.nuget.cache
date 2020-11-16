@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KFw5P2UFjRnSgVuVEMhN8V8BkibuppVNJM7GuKHPOq2m6eDkFuDAIrxFC1wIw+Hj6bEOYcLkmQXH/xZm69UZg==",
+  "dgSpecHash": "yZfWtaRizyIFG2xsDoiPSOv73cbQbuaeIGbWaeiXd5COgIO8K6qKPfJedyYYoq7dkUAAK3zT27zOlClmgvMQ1A==",
   "success": true,
-  "projectFilePath": "D:\\C#demo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "D:\\CoreWork\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
